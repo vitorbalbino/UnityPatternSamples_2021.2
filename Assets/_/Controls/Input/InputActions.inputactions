@@ -1,0 +1,92 @@
+{
+    "name": "InputActions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "9c8e314a-1d90-4c2a-8529-0d2049f0c446",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "a276f653-05b5-4cc4-9ed9-f11b9a7fa83b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": []
+        },
+        {
+            "name": "Menus",
+            "id": "079e7c70-ad35-44f7-a72b-773dadb1a565",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "8ab81b19-4489-4237-bba8-cfb03ccee8d2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": []
+        },
+        {
+            "name": "Vehicle",
+            "id": "1dae0e04-6daf-476b-b957-016ed99f4d09",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "a780d64b-e8cc-4893-a340-c18ac4e8b747",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": []
+        },
+        {
+            "name": "Inventory",
+            "id": "1b3ceb52-4a78-423f-bd95-872cc6ff9af2",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "2913d556-f4dd-457b-a086-858c7e6c3d26",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": []
+        },
+        {
+            "name": "Mini Map",
+            "id": "05b0d6b1-100b-4099-bcea-036460921eae",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "9dc57e01-70c5-4cd4-9fa4-ad509016f9d2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Gamepad",
+            "bindingGroup": "Gamepad",
+            "devices": []
+        }
+    ]
+}

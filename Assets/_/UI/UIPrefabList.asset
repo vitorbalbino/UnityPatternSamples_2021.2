@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37b1225c7eef5aa4caecc7838479d868, type: 3}
+  m_Name: UIPrefabList
+  m_EditorClassIdentifier: 
+  MainMenu: {fileID: 7204991298103828467, guid: 18c59c097da56864eadc1613b34a351b,
+    type: 3}
+  PauseMenu: {fileID: 1916231299669728341, guid: 479053c06a2c6c14abf71300148a149e,
+    type: 3}
+  LoadingMenu: {fileID: 5718902618217271508, guid: 7a0ec50405be91149b63324994fd7de1,
+    type: 3}
+  PopUpWindow: {fileID: 6665373861267192397, guid: d34f2b8ff7a42064b81515b140d76caf,
+    type: 3}
